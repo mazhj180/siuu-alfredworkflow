@@ -5,5 +5,5 @@
 - The best of version is Alfred 5 and Python 3
 
 ### Download from Release
-
+[Download](https://github.com/mazhj180/siuu-alfredworkflow/releases/latest)
 
